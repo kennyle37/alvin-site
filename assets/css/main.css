@@ -1918,12 +1918,12 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+			.icon.circle.fa-linkedin {
 				background: #70aecd;
 				color: #fff;
 			}
 
-				.icon.circle.fa-twitter:hover {
+				.icon.circle.fa-linkedin:hover {
 					background: #7fb7d2;
 				}
 
@@ -1945,12 +1945,12 @@ input, select, textarea {
 					background: #df7b77;
 				}
 
-			.icon.circle.fa-github {
+			.icon.circle.fa-instagram {
 				background: #dcad8b;
 				color: #fff;
 			}
 
-				.icon.circle.fa-github:hover {
+				.icon.circle.fa-instagram:hover {
 					background: #e1b89b;
 				}
 
